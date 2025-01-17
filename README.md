@@ -12,6 +12,6 @@ cd Speech_commands
 main.py
 ```
 
-### Test
+## Test
 ```bash
 main.py test
